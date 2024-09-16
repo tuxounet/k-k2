@@ -3,3 +3,4 @@ dist/
 out/
 coverage/
 init/
+.DS_Store

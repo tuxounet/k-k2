@@ -9,7 +9,7 @@
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
     "resolveJsonModule": true,
-    "moduleResolution": "node",    
+    "moduleResolution": "node",
     "sourceMap": true,
     "declaration": false,
     "declarationMap": false,
@@ -29,7 +29,7 @@
     "ts-jest": "^29.0.5",
     "typescript": "^4.9.4"
   },
-  "include": ["src"],
+  "include": ["src", "jest.config.ts"],
   "exclude": [
     "**/node_modules",
     "**/dist",
